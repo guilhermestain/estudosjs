@@ -1,0 +1,25 @@
+.button1{
+    background: purple;
+    padding: 14px 30px;
+    border: 10px;
+    margin: 4px;
+    border-color: none;
+    text-align: center;
+    border-radius: 30px;
+}
+.button2{
+    background: blue;
+    padding: 14px 30px;
+    border: 10px;
+    margin: 4px;
+    border-color: none;
+    text-align: center;
+    border-radius: 30px;
+}
+.conteudo{
+display: flex;
+align-items: center;
+align-content: center; 
+flex-direction: column;
+}
+
