@@ -12,3 +12,6 @@ if (numero3===0){
 
 }
 console.log(divisaoMaster(2,2,2))
+function test(a) {
+    return a
+}
